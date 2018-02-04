@@ -25,7 +25,7 @@ tags: [medium, humanoid, cr8, volos-guide]
 
 **Challenge** 8 (3,900 XP)
 
-***Spellcasting.*** The blackguard is a 10th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 33, +5 to hit with spell attacks). It has the following paladin spells prepared:
+***Spellcasting.*** The blackguard is a 10th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). It has the following paladin spells prepared:
 
 1st level (4 slots): command, protection from evil and good, thunderous smite
 
