@@ -19,17 +19,16 @@ tags: [huge, giant, cr5, monster-manual]
 
 **Skills** Perception +2
 
+**Senses** passive Perception 12
+
 **Languages** Giant
 
 **Challenge** 5 (1,800 XP)
 
 **Actions**
 
-***Squash.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one Medium or Smaller creature. Hit: 26 (6d6 + 5) bludgeoning damage, the giant lands prone in the target's space, and the target is grappled (escape DC 15). Until this grapple ends, the target is prone. The grapple ends early if the giant stands up.
-
 ***Multiattack.*** The giant makes two greatclub attacks.
 
 ***Greatclub.*** Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 18 (3d8 + 5) bludgeoning damage.
 
 ***Rock.*** Ranged Weapon Attack: +8 to hit, range 60/240 ft., one target. Hit: 21 (3d10 + 5) bludgeoning damage.
-
